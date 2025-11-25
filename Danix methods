@@ -266,3 +266,105 @@ local success, err = pcall(main)
 if not success then
     warn("âŒ Erro ao executar script: " .. tostring(err))
 end
+<roblox!��
+
+  	   "           META$   "       �      ExplicitAutoJoints   trueINST!   6       �        Frame 	  �
+INST          �   
+   ImageLabel       @INST          �   	   ScreenGui        INST          �	      TextBox       "INST          �   
+   TextButton       &INST"   6       �   	   TextLabel   �INST!   5       �      UICorner
+  �
+INST!          �   
+   UIGradient          
+ INST   !       @    �UIStroke   P  
+PROP          �	       Active         PROP"   \       �       AnchorPoint
+  ,P     PROP*   @       �
+       AttributesSerialize  P     PROP           �       AutoLocalizePROP$   :       �    
+   AutomaticSize  P     PROPt   �       �       BackgroundColor3 {|{ ~||| �A G	 ��B H {~{ ~~~~ ��A E���	 ���B F��� {}{ ~}}} �y� Kyyy	 ��z� LzzzPROPE   C       �4       BackgroundTransparency} ~}~|||3 ��� ���3 3�� fff4 4�� jjjPROP@   �       �       BorderColor3{ � � | Q R # -|� ����������PROP!   7       �    
+   BorderMode  P     PROP&   <       �	       BorderSizePixel  P    PROP#   ]       �       Capabilities!  ,P     PROP$   "       �       ClipsDescendants        PROP'   %       �       DefinesCapabilities         PROP          �    	   Draggable         PROP           �       InteractablePROP"   8       �       LayoutOrder  P     PROP<   g       �"       Name
+   Background	   MainPanel   Frame	 PFramePROP,   >       �       NextSelectionDown  �        PROP,   >       �       NextSelectionLeft  �        PROP-   ?       �       NextSelectionRight  �        PROP*   <       �	       NextSelectionUp  �        PROPL   �       �       Position ~~  ~         �WSP 1,P  2 ��,��PROP0   B       �       RootLocalizationTable  �        PROP   5       �       Rotation  P     PROP          �
+    
+   Selectable         PROP,   B       �       SelectionBehaviorDown  P     PROP,   B       �       SelectionBehaviorLeft  P     PROP-   C       �       SelectionBehaviorRight  P     PROP*   @       �
+       SelectionBehaviorUp  P     PROP"           �       SelectionGroup         PROP/   A       �       SelectionImageObject  �        PROP%   ;       �       SelectionOrder  P     PROPC   �       �       Size      
+  d  �����d
+ 
+  ��0dnPROP%   ;       �       SizeConstraint  P     PROP(   ^       �    
+   SourceAssetId  (�PROP   2       �       Style  P     PROP   1       �       Tags
+  P     PROP          �
+       Visible PROP!   3       �        ZIndex  �   PROP          �      Active PROP          �
+      AnchorPoint
+~   ~   PROP"           �      AttributesSerialize    PROP          �      AutoLocalizePROP          �   
+   AutomaticSize    PROP'   %       �      BackgroundColor3~GGH~EEF~KKLPROP%   #       �      BackgroundTransparency   PROP#   !       �      BorderColor3{���|QQR|���PROP          �   
+   BorderMode    PROP          �
+      BorderSizePixel   PROP          �      Capabilities!        PROP          �      ClipsDescendants PROP          �      DefinesCapabilities PROP          �   	   Draggable PROP+   )       �      Image   rbxassetid://5028857084PROP"           �      ImageColor3|~���}yyzPROP"           �      ImageRectOffset
+        PROP           �   
+   ImageRectSize
+        PROP           �      ImageTransparency~�34PROP          �      InteractablePROP          �	      LayoutOrder    PROP          �      Name
+   ImageLabelPROP           �      NextSelectionDown   PROP           �      NextSelectionLeft   PROP!          �      NextSelectionRight   PROP          �
+      NextSelectionUp   PROP"   !       �      Position~    �   '   'PROP          �
+      ResampleMode    PROP$   "       �      RootLocalizationTable   PROP          �      Rotation    PROP          �   	   ScaleType   PROP          �   
+   Selectable PROP$   "       �      SelectionBehaviorDown    PROP$   "       �      SelectionBehaviorLeft    PROP%   #       �      SelectionBehaviorRight    PROP"           �      SelectionBehaviorUp    PROP          �	      SelectionGroup PROP#   !       �      SelectionImageObject   PROP          �      SelectionOrder    PROP          �      Size    �   P   PPROP          �      SizeConstraint    PROP%   $       �	      SliceCenter��   ��  �  PROP          �   
+   SliceScale   PROP           �   
+   SourceAssetId       PROP          �      Tags    PROP"   !       �      TileSize    �        PROP          �      VisiblePROP          �      ZIndex   PROP"           �      AttributesSerialize    PROP          �      AutoLocalizePROP          �      Capabilities!        PROP           �      ClipToDeviceSafeAreaPROP          �      DefinesCapabilities PROP          �
+      DisplayOrder    PROP          �      EnabledPROP"           �      Name   IsolationModeUIPROP          �      ResetOnSpawn PROP$   "       �      RootLocalizationTable   PROP$   "       �      SafeAreaCompatibility   PROP          �
+      ScreenInsets   PROP$   "       �      SelectionBehaviorDown    PROP$   "       �      SelectionBehaviorLeft    PROP%   #       �      SelectionBehaviorRight    PROP"           �      SelectionBehaviorUp    PROP          �	      SelectionGroup PROP           �   
+   SourceAssetId       PROP          �      Tags    PROP          �      ZIndexBehavior   PROP          �      ActivePROP          �
+      AnchorPoint
+        PROP"           �      AttributesSerialize    PROP          �      AutoLocalizePROP          �   
+   AutomaticSize    PROP'   %       �      BackgroundColor3~GGH~EEF~KKLPROP%   #       �      BackgroundTransparency   PROP#   !       �      BorderColor3{���|QQR|���PROP          �   
+   BorderMode    PROP          �
+      BorderSizePixel   PROP          �      Capabilities!        PROP          �      ClearTextOnFocus PROP          �      ClipsDescendants PROP          �      DefinesCapabilities PROP          �   	   Draggable PROP\   j       �2      FontFace (   rbxasset://fonts/families/GothamSSm.json� &/ M5 �errat-Medium.ttfPROP          �      InteractablePROP          �	      LayoutOrder    PROP          �   
+   LineHeight   PROP*   (       �      LocalizationMatchIdentifier    PROP,   *       �      LocalizationMatchedSourceText    PROP"           �      MaxVisibleGraphemes   PROP          �   	   MultiLine PROP          �	      Name   TextBoxPROP           �      NextSelectionDown   PROP           �      NextSelectionLeft   PROP!          �      NextSelectionRight   PROP          �
+      NextSelectionUp   PROP          �      OpenTypeFeatures    PROP(   &       �      PlaceholderColor3}���}���}���PROP7   5       �&      PlaceholderText   roblox.com/share?code=...PROP   !       �      Position  Pn    PROP          �      RichText PROP$   "       �      RootLocalizationTable   PROP          �      Rotation    PROP          �   
+   SelectablePROP$   "       �      SelectionBehaviorDown    PROP$   "       �      SelectionBehaviorLeft    PROP%   #       �      SelectionBehaviorRight    PROP"           �      SelectionBehaviorUp    PROP          �	      SelectionGroup PROP#   !       �      SelectionImageObject   PROP          �      SelectionOrder    PROP          �
+      ShowNativeInputPROP          �      Size    �   w    PROP          �      SizeConstraint    PROP           �   
+   SourceAssetId       PROP          �      Tags    PROPD   B       �3      Text1   https://www.roblox.com/share?code=123&type=ServerPROP!          �   
+   TextColor3         PROP          �   
+   TextDirection    PROP          �      TextEditablePROP          �   
+   TextScaled PROP          �      TextSize��  PROP'   %       �      TextStrokeColor3            PROP%   #       �      TextStrokeTransparency   PROP          �      TextTransparency    PROP          �
+      TextTruncate    PROP          �      TextWrapped PROP          �      TextXAlignment    PROP          �      TextYAlignment   PROP          �      VisiblePROP          �      ZIndex    PROP          �      ActivePROP          �
+      AnchorPoint
+        PROP"           �      AttributesSerialize    PROP          �
+      AutoButtonColor PROP          �      AutoLocalizePROP          �   
+   AutomaticSize    PROP'   %       �      BackgroundColor3|~���}yyzPROP%   #       �      BackgroundTransparency    PROP#   !       �      BorderColor3{���|QQR|���PROP          �   
+   BorderMode    PROP          �
+      BorderSizePixel    PROP          �      Capabilities!        PROP          �      ClipsDescendants PROP          �      DefinesCapabilities PROP          �   	   Draggable PROPY   h       �2      FontFace (   rbxasset://fonts/families/GothamSSm.json� $/ M5 �errat-Bold.ttfPROP           �      HoverHapticEffect   PROP          �      InteractablePROP          �	      LayoutOrder    PROP          �   
+   LineHeight   PROP*   (       �      LocalizationMatchIdentifier    PROP,   *       �      LocalizationMatchedSourceText    PROP"           �      MaxVisibleGraphemes   PROP          �       Modal PROP          @    �Name
+   TextButtonPROP           �      NextSelectionDown   PROP           �      NextSelectionLeft   PROP!          �      NextSelectionRight   PROP          �
+      NextSelectionUp   PROP          �      OpenTypeFeatures    PROP#   !       �      Position          P   �PROP           �      PressHapticEffect   PROP          �      RichText PROP$   "       �      RootLocalizationTable   PROP          �      Rotation    PROP          �   
+   SelectablePROP          �      Selected PROP$   "       �      SelectionBehaviorDown    PROP$   "       �      SelectionBehaviorLeft    PROP%   #       �      SelectionBehaviorRight    PROP"           �      SelectionBehaviorUp    PROP          �	      SelectionGroup PROP#   !       �      SelectionImageObject   PROP          �      SelectionOrder    PROP          @    uSize  P�   nPROP          �      SizeConstraint    PROP           �   
+   SourceAssetId       PROP          �      Style    PROP          @    �Tags    PROP)   (       @    �Text   ACTIVATE ISOLATION MODEPROP!          �   
+   TextColor3         PROP          �   
+   TextDirection    PROP          �   
+   TextScaled PROP          �      TextSize�   PROP'   %       �      TextStrokeColor3            PROP%   #       �      TextStrokeTransparency   PROP          �      TextTransparency    PROP          �
+      TextTruncate    PROP          �      TextWrapped PROP          �      TextXAlignment   PROP          �      TextYAlignment   PROP          �      VisiblePROP          �      ZIndex   PROP          �      Active        PROP    T       �      AnchorPoint
+  'P     PROP(   <       �      AttributesSerialize  P     PROP          �      AutoLocalizePROP"   6       �   
+   AutomaticSize  P     PROPB   y       �      BackgroundColor3~ G H  +~E F   K �LLLLLLLLPROP.   ?       �      BackgroundTransparency   P     PROP?   u       �      BorderColor3{ � � | Q R  +|� ���������PROP   3       �   
+   BorderMode  P     PROP'   8       �
+      BorderSizePixel  �PROP!   U       �      Capabilities!  'P     PROP#   !       �      ClipsDescendants        PROP&   $       �      DefinesCapabilities        PROP          �   	   Draggable        PROP�   �      �4      FontFace *   rbxasset://fonts/families/LegacyArial.json� "1 �Arimo-Regular.ttf(W 
+�GothamSSmU O� %/ M� �errat-BlackX O� $X 
+?oldW O� &W `MediumY _pDW �Inconsolata?� >( jPr.ttfPROP          �      InteractablePROP    4       �      LayoutOrder  P     PROP"   3       �   
+   LineHeight   P     PROP0   D       �      LocalizationMatchIdentifier  P     PROP2   F       �      LocalizationMatchedSourceText  P     PROP+   <       �      MaxVisibleGraphemes  �PROP%   u       �      Name	   TextLabel
+ CPLabelPROP)   :       �      NextSelectionDown  �       PROP)   :       �      NextSelectionLeft  �       PROP*   ;       �
+      NextSelectionRight  �       PROP'   8       �
+      NextSelectionUp  �       PROP%   9       �      OpenTypeFeatures  P     PROPD   �       �      Position~    ?~   
+  �;P PPP� �   F� rD�PROP          �
+      RichText        PROP-   >       �      RootLocalizationTable  �       PROP$   1       �      Rotation�  h  P     PROP          �   
+   Selectable        PROP*   >       �      SelectionBehaviorDown  P     PROP*   >       �      SelectionBehaviorLeft  P     PROP+   ?       �      SelectionBehaviorRight  P     PROP(   <       �      SelectionBehaviorUp  P     PROP!          �      SelectionGroup        PROP,   =       �      SelectionImageObject  �       PROP#   7       �	      SelectionOrder  P     PROP8   �       �      Size     	 �x� �<���" �xZ <<(2(PROP#   7       �	      SizeConstraint  P     PROP%   V       �   
+   SourceAssetId  $�PROP   -       �      Tags  P     PROP�   �       �=      Text       AUTO COFIZIN	   v1.0 BETA   Enter your VIP server link? �-   Link inválido. Use um# � do Roblox   5 �   scripted by prevechPROPc   s       �   
+   TextColor3{|~{|}� A @� B �|~~|}~}Q �KQA�U �	R �LRB�V|}~|}}}� yU�Ayi �� zV�BzjPROP"   6       �   
+   TextDirection  P     PROP          �   
+   TextScaled        PROP,   1       �      TextSize���������0`� `�`  P     PROP%   y       �      TextStrokeColor3  GP     PROP.   ?       �      TextStrokeTransparency   P     PROP%   9       �      TextTransparency  P     PROP!   5       �      TextTruncate  P     PROP          �
+      TextWrapped        PROP&   7       �	      TextXAlignment  �PROP&   7       �	      TextYAlignment  �PROP          �	      Visible  PROP   /       �      ZIndex  �  PROP(   <       �      AttributesSerialize  P     PROP!   U       �      Capabilities!  'P     PROP%   U       �      CornerRadius  "� PROP&   $       �      DefinesCapabilities        PROP$   m       �
+      Name   UICorner <PornerPROP%   V       �   
+   SourceAssetId  $�PROP   -       �      Tags  P     PROP&   $       �      AttributesSerialize        PROP    %       �      Capabilities!  P     PROPW   f       �      Color  ����=���=��> ��?���=���=���= , ���>��E?���, ���0>��O?���>    PROP           �      DefinesCapabilities  PROP          @    �EnabledPROP%   )       �      Name
+   UIGradient PdientPROP          �      Offset
+  P     PROP          �
+      Rotation��hh    PROP!   &       �   
+   SourceAssetId  P   PROP          �      Tags        PROP*   M       �      Transparency  $�?  P     PROP&   $       �      ApplyStrokeMode            PROP*   (       �      AttributesSerialize            PROP    -       �      BorderOffset  P     PROP+   )       �      BorderStrokePosition            PROP    -       �      Capabilities!  P     PROP1   2       �      Color||| q~~~� � ���}}}yyyyyyzzzPROP!          �      DefinesCapabilities   PROP          �      EnabledPROP#   !       �      LineJoinMode            PROP"   1       �      Name
+ �UIStroke  PtrokePROP!   .       �   
+   SourceAssetId  P  PROP'   %       �      StrokeSizingMode            PROP          �
+      Tags            PROP           �   	   Thickness�  �      PROP#   !       �      Transparency}~~�3f�3f�4fPROP          �      ZIndex         PRNTL         ? "  UP  
+ �
+ _	-<A� Th �
+       " !(' 0
+	-  END     	       </roblox>
